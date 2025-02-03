@@ -2,7 +2,7 @@
 
 This repository contains the source code for **MovieLand v2**, an improved and modernized movie discovery application built with **React.js**, **Appwrite**, and **Tailwind CSS**. This version enhances the browsing experience with a dynamic Trending Movies Algorithm powered by Appwrite.
 
-![Screenshot](https://github.com/user-attachments/assets/example.png)
+![Image](https://github.com/user-attachments/assets/be118c64-ca58-419a-8bfa-253c8ab3b5eb)
 
 ## Features
 - **Trending Movies Algorithm**: Discover trending movies dynamically using Appwrite.
