@@ -16,7 +16,7 @@ This repository contains the source code for **MovieLand v2**, an improved and m
 - **Appwrite** - Backend-as-a-service for database and API management.
 - **Tailwind CSS** - Utility-first CSS framework for styling.
 
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,appwrite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,appwrite,tailwind)](https://skillicons.dev)
 
 ## Components Overview
 1. **App.js**:
