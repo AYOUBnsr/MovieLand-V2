@@ -57,7 +57,7 @@ Create a new file named .env.local in the root of your project and add the follo
    ```bash
    npm start
    ```
-6. Replace the placeholder values with your actual `TheMovieDatabase API` and `Appwrite` credentials. You can obtain these credentials by signing up on the `TheMovieDatabase` and creating a new project on the `Appwrite`
+6. Replace the placeholder values with your actual [TheMovieDatabase API](https://developer.themoviedb.org/reference/discover-movie) and [Appwrite](https://appwrite.io) credentials. You can obtain these credentials by signing up on the [TheMovieDatabase API](https://developer.themoviedb.org/reference/discover-movie) and creating a new project on the [Appwrite](https://appwrite.io)
 
 Running the Project
  ```bash
