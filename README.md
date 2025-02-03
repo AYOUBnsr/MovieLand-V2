@@ -44,12 +44,26 @@ This repository contains the source code for **MovieLand v2**, an improved and m
    ```
 4. Configure Appwrite:
    - Set up an Appwrite project and database.
-   - Store API credentials securely in a `.env` file.
+   - Set Up Environment Variables
+
+Create a new file named .env.local in the root of your project and add the following content:
+  ```bash
+  VITE_IMDB_API_KEY=
+  VITE_APPWRITE_PROJECT_ID=
+  VITE_APPWRITE_DATABASE_ID=
+  VITE_APPWRITE_COLLECTION_ID=
+  ```
 5. Start the development server:
    ```bash
    npm start
    ```
-6. Open `http://localhost:3000` in your browser.
+6. Replace the placeholder values with your actual `TheMovieDatabase API` and `Appwrite` credentials. You can obtain these credentials by signing up on the `TheMovieDatabase` and creating a new project on the `Appwrite`
+
+Running the Project
+ ```bash
+npm run dev
+ ```
+Open `http://localhost:5173` in your browser to view the project.
 
 ## Future Enhancements
 - Implementing genre-based filtering.
